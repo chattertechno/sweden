@@ -11,10 +11,10 @@ type Props = {
 const Layout = (props: Props) => (
   <div className={`background background-color-${props.background}`}>
     <Head>
-      <title>Connor Davis</title>
+      <title>Renee Krom</title>
       <meta name='description' content='Web Applications Engineer with a passion in scalability, maintainability, and integration' />
       <meta name='keywords' content='HTML, CSS, JavaScript, Web, Applications, HTTP' />
-      <meta name='author' content='Connor Davis' />
+      <meta name='author' content='Renee Krom' />
       <meta content='width=device-width, initial-scale=1' name='viewport' />
       <link href='https://fonts.gstatic.com' rel='preconnect' crossOrigin='true' />
       <link href='https://fonts.gstatic.com' rel='dns-prefetch' />

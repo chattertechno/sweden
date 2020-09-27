@@ -54,9 +54,9 @@ function Home (props: Props) {
     <Layout background={options[option].background}>
       <div className='container'>
         <div className='doubleSpacer' />
-        <h1>Connor Davis</h1>
+        <h1>Renee Krom</h1>
         <span className='subtitle'>
-          Web Applications Engineer with a passion in scalability, maintainability, and integration
+          Software Engineer focusing on coding, testing and manipulation of code to provide what I need.
         </span>
         <Nav options={options} order={order} option={option} setOption={setOption} />
         <div className='doubleSpacer' />
