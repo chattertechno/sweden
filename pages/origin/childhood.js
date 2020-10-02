@@ -7,7 +7,7 @@ import { background } from '../../subsections/Origin'
 
 export const header = (expanded: bool) => (
   <CardHeader isLarge={expanded} title='Childhood Experiences'>
-    Coming soon...
+    Where I come from.
   </CardHeader>
 )
 
@@ -16,18 +16,13 @@ const Childhood = () => (
     <ExpandedCard header={header}>
       <div>
         <p className='animate'>
-          From a young age, I had always been interested in computers.
-          At 13, I created my stepmother's local insurance company website in Adobe Dreamweaver.
-          I built my own computer from scratch and set up a local LAMP server in my basement.
+          From a young age, I had always been interested in Electronics and computers.
+          As a young kid growing in a middle income and a strick christian family from Africa,
+          Access from the internet has been pretty tough. But that has never been a problem from learning from the internet.
         </p>
         <p className='animate d-1'>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-          Phasellus sapien mi, dignissim vel condimentum eu, auctor id erat.
-          Donec id ornare lectus, sagittis mattis dolor. Vivamus nec dapibus nisl.
-          Nam sed molestie arcu. Pellentesque sed porttitor ante.
-        </p>
-        <p className='animate d-2'>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+          I had grown to like the Electronics and cellphones, my love for them had grown me to pursue the studies
+          to learn on how to make it. The internet itself has been better for me since then,
         </p>
         <style jsx>{`
           p {

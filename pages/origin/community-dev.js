@@ -7,7 +7,7 @@ import { background } from '../../subsections/Origin'
 
 export const header = (expanded: bool) => (
   <CardHeader isLarge={expanded} title='Community Development'>
-    Coming soon...
+    Helping Others.
   </CardHeader>
 )
 
@@ -19,15 +19,6 @@ const CommunityDev = () => (
           I was involved in a few online communities that used Simple Machine Forums (a relic today).
           A group with over a thousand members recruited me to join their web development team.
           From there, I began administrating forums and creating group organization tools.
-        </p>
-        <p className='animate d-1'>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-          Phasellus sapien mi, dignissim vel condimentum eu, auctor id erat.
-          Donec id ornare lectus, sagittis mattis dolor. Vivamus nec dapibus nisl.
-          Nam sed molestie arcu. Pellentesque sed porttitor ante.
-        </p>
-        <p className='animate d-2'>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
         </p>
         <style jsx>{`
           p {

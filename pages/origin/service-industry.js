@@ -7,7 +7,7 @@ import { background } from '../../subsections/Origin'
 
 export const header = (expanded: bool) => (
   <CardHeader isLarge={expanded} title='Service Industry'>
-    Coming soon...
+    My current Career.
   </CardHeader>
 )
 
@@ -16,19 +16,7 @@ const ServiceIndustry = () => (
     <ExpandedCard header={header}>
       <div>
         <p className='animate'>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-          Phasellus sapien mi, dignissim vel condimentum eu, auctor id erat.
-          Donec id ornare lectus, sagittis mattis dolor. Vivamus nec dapibus nisl.
-          Nam sed molestie arcu. Pellentesque sed porttitor ante.
-        </p>
-        <p className='animate d-1'>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-          Phasellus sapien mi, dignissim vel condimentum eu, auctor id erat.
-          Donec id ornare lectus, sagittis mattis dolor. Vivamus nec dapibus nisl.
-          Nam sed molestie arcu. Pellentesque sed porttitor ante.
-        </p>
-        <p className='animate d-2'>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+          Coming soon...
         </p>
         <style jsx>{`
           p {

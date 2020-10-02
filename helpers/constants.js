@@ -3,19 +3,19 @@ export const backgrounds = {
   defaultKey: 'blue',
   red: {
     key: 'red',
-    hex: '#d63031'
+    hex: '#ff9a76'
   },
   blue: {
     key: 'blue',
-    hex: '#0984e3'
+    hex: '#28df99'
   },
   green: {
     key: 'green',
-    hex: '#00b894'
+    hex: '#f0a500'
   },
   purple: {
     key: 'purple',
-    hex: '#6c5ce7'
+    hex: '#931a25'
   },
   grey: {
     key: 'grey',
